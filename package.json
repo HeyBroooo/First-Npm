@@ -1,0 +1,19 @@
+{
+  "name": "portmohit",
+  "version": "1.0.0",
+  "description": "Known me more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeyBroooo/First-Npm.git"
+  },
+  "author": "Mohit.Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeyBroooo/First-Npm/issues"
+  },
+  "homepage": "https://github.com/HeyBroooo/First-Npm#readme"
+}
